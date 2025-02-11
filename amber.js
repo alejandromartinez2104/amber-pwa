@@ -31,7 +31,7 @@ function checkMessage() {
         message = "HAPPY VALENTINE'S DAY Dweety. I'm so lucky to have you as my valentine this and every other year of my life. I have something else I made for you.";
         document.body.style.backgroundImage = "url('tulips.png')";
     } else {
-        document.getElementById("envelope").setAttribute("onclick", "alert('Be patient Dweety')");
+        document.getElementById("envelope").setAttribute("onclick", "alert('Be patient Amberly!')");
         return;
     }
 
